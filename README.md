@@ -4,3 +4,4 @@
 Para ejecutar el sistema debes poner:
 
   ````MCS````
+Sistem de registro 2
